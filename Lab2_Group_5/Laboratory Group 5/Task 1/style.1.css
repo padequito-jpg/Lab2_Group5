@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #025bd762;
+}
+
+h1 {
+    color: #020202;
+    font-family:fantasy;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    border-radius: 20%;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.content{
+    border: 1px solid #000000;
+    border-radius: 10%;
+    display: block;
+    margin: 30px auto;
+    padding: 20px;  
+    max-width: 500px;
+    background-color: #ffffff;
+}
+
+p {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 50px;
+}
